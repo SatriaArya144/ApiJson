@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "001",
+      "name": "Satria Arya",
+      "email": "SatriaAryai@gmail.com",
+      "address": "Bekasi,Cikarang, Indonesia",
+      "gender": "male",
+      "phone": {
+        "mobile": "+62 6742553343",
+        "home": "08121553432",
+        "office": "082563323442"
+      }
+    }
+  ]
+}
